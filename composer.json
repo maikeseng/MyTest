@@ -15,7 +15,7 @@
 			"Sky\\Demo\\" : "src"
 		},
 		"files" : [
-			"src/helper.php"
+			"src/Hello.php"
 		],
 		"classmap" : [
 		
