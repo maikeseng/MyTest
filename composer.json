@@ -1,0 +1,24 @@
+{
+    "name": "maikeseng/mytest",
+    "description": "this is test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maikeseng",
+            "email": "haoqijian@126.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4" : {
+			"Sky\\Demo\\" : "src"
+		},
+		"files" : [
+			"src/helper.php"
+		],
+		"classmap" : [
+			"src/Common"
+		]
+	}
+}
